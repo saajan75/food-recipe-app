@@ -1,0 +1,13 @@
+.recipes-img {
+  padding: 2%;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+.recipes-label {
+  max-width: 400px;
+  text-align: center;
+  margin: 12px 0px;
+  font-weight: bold;
+}
